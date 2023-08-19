@@ -1,0 +1,1 @@
+# msc-quick-project
